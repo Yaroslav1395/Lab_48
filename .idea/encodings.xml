@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/forms.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/images/pic.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/login.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/Cookie.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/service/CandidateService.java" charset="windows-1251" />
+  </component>
+</project>
